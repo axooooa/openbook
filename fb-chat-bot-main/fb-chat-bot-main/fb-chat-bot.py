@@ -553,11 +553,11 @@ class ChatBot(Client):
             elif ("hello" in msg):
                 reply = "Hi"
                 sendMsg()
-            elif ("hello" in msg or "hlo" in msg):
-                reply = "Hi"
+            elif ("Open book" in msg or "open" in msg):
+                reply = "me down"
                 sendMsg()
-            elif (msg == "hi"):
-                reply = "Hello! How can I help you?"
+            elif (msg == "Open book!!!!!"):
+                reply = "me down"
                 sendMsg()
 
         except Exception as e:
@@ -678,9 +678,9 @@ class ChatBot(Client):
 cookies = {
     "sb": "xasyYmAoy1tRpMGYvLxgkHBF",
     "fr": "0NxayJuewRHQ30OX3.AWVJwIYNh0Tt8AJv6kSwDamhkoM.BiMrVd.Iu.AAA.0.0.BiMtVZ.AWXMVaiHrpQ",
-    "c_user": "",
-    "datr": "xasyYs51GC0Lq5H5lvXTl5zA",
-    "xs": ""
+    "c_user": "100040501305417",
+    "datr": "qv0lZEh5mb31eJcDnv7sjybZ",
+    "xs": "3%3AD8TBCflOTlbwGQ%3A2%3A1680695920%3A-1%3A7247"
 }
 
 
