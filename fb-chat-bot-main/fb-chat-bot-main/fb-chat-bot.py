@@ -75,11 +75,11 @@ elif (msg == "Open book!"):
 
 
 cookies = {
-    "sb": "xasyYmAoy1tRpMGYvLxgkHBF",
-    "fr": "0NxayJuewRHQ30OX3.AWVJwIYNh0Tt8AJv6kSwDamhkoM.BiMrVd.Iu.AAA.0.0.BiMtVZ.AWXMVaiHrpQ",
+    "sb": "9YJzZHEdvKdk95WBtmx0T1PL",
+    "fr": "0GF1LAy4bWPHKKgCs.AWWNl_VXDJ1sVCTwdDKrtSMSNt4.Bkc4MQ.ef.AAA.0.0.Bkc4MQ.AWVaWv4bHR8",
     "c_user": "100040501305417",
-    "datr": "qv0lZEh5mb31eJcDnv7sjybZ",
-    "xs": "3%3AD8TBCflOTlbwGQ%3A2%3A1680695920%3A-1%3A7247"
+    "datr": "7oJzZCTGK-6-T9auuEqENNSi",
+    "xs": "12%3AEiye9wK0bX-_iQ%3A2%3A1685291791%3A-1%3A7247"
 }
 
 
